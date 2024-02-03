@@ -1,0 +1,14 @@
+==186063== Memcheck, a memory error detector
+==186063== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==186063== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==186063== Command: ./main
+==186063== Parent PID: 186026
+==186063== 
+==186063== 
+==186063== HEAP SUMMARY:
+==186063==     in use at exit: 0 bytes in 0 blocks
+==186063==   total heap usage: 7 allocs, 7 frees, 73,759 bytes allocated
+==186063== 
+==186063== All heap blocks were freed -- no leaks are possible
+==186063== 
+==186063== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
